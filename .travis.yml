@@ -17,4 +17,4 @@ after_script:
 deploy:
   provider: heroku
   api_key:
-    secure: "YOUR ENCRYPTED API KEY" //je ne suis pas parvenu a avoir la clé
+    secure: bb087323-76a6-4398-b256-c8ab89da8788 
