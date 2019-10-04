@@ -16,5 +16,6 @@ after_script:
   - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
 deploy:
   provider: heroku
+  app: appedgardupont
   api_key:
-    secure: bb087323-76a6-4398-b256-c8ab89da8788 
+    secure: bb087323-76a6-4398-b256-c8ab89da8788
