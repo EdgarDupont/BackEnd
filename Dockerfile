@@ -1,2 +1,0 @@
-FROM ruby
-WORKDIR /app
